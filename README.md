@@ -9,6 +9,8 @@ Created by [newscatcherapi.com](https://www.newscatcherapi.com) but you do not n
 ![](newscatcherdemo.gif)
 
 ## Motivation
+newscatcher is an amazing project
+
 While working on [newscatcherapi](https://newscatcherapi.com/) - JSON API 
 to query news articles,
 I came up with an idea to make a simple Python package that would allow
